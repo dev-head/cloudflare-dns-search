@@ -1,0 +1,8 @@
+#- IDE ignores -#
+.idea
+.DS_Store
+*.sublime-*
+*.ide-plugin.xml
+
+#- Specific Ignores -#
+.cfdnscache
